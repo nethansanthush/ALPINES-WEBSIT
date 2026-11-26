@@ -27,8 +27,7 @@ window.ALPINE_PRODUCTS = [
     description:
       "සියලුම පලිබෝධකයන් සඳහා ඵලදායී විසඳුමකි. ජලය 16L කට මෙම නිෂ්පාදනයෙන් 50ml ක් මිශ්ර කර වගාවට යොදන්න.",
     image: "images/product1.jpg"
-    whatsapplink:"https://wa.me/94740744515"
-                 
+    whatsapplink:"https://wa.me/94740744515",          
   },
   {
     id: "omega-200ml",
@@ -41,7 +40,7 @@ window.ALPINE_PRODUCTS = [
     description:
       "සියලුම පලිබෝධකයන් සඳහා ඵලදායී විසඳුමකි. ජලය 16L කට මෙම නිෂ්පාදනයෙන් 50ml ක් මිශ්ර කර වගාවට යොදන්න.",
     image: "images/product2.jpg"
-    whatsapplink:"https://wa.me/94740744515"
+    whatsapplink:"https://wa.me/94740744515",
   },
   {
     id: "omega-500ml",
@@ -54,7 +53,7 @@ window.ALPINE_PRODUCTS = [
     description:
       "සියලුම පලිබෝධකයන් සඳහා ඵලදායී විසඳුමකි. ජලය 16L කට මෙම නිෂ්පාදනයෙන් 50ml ක් මිශ්ර කර වගාවට යොදන්න.",
     image: "images/product3.jpg"
-    whatsapplink:"https://wa.me/94740744515"
+    whatsapplink:"https://wa.me/94740744515",
   },
   {
     id: "omega-1l",
