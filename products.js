@@ -26,7 +26,7 @@ window.ALPINE_PRODUCTS = [
     inStock: true,
     description:
       "සියලුම පලිබෝධකයන් සඳහා ඵලදායී විසඳුමකි. ජලය 16L කට මෙම නිෂ්පාදනයෙන් 50ml ක් මිශ්ර කර වගාවට යොදන්න.",
-    image: "images/product1.jpg"
+    image: "images/product1.jpg",
     whatsappLink:"https://wa.me/94740744515",          
   },
   {
@@ -39,7 +39,7 @@ window.ALPINE_PRODUCTS = [
     inStock: true,
     description:
       "සියලුම පලිබෝධකයන් සඳහා ඵලදායී විසඳුමකි. ජලය 16L කට මෙම නිෂ්පාදනයෙන් 50ml ක් මිශ්ර කර වගාවට යොදන්න.",
-    image: "images/product2.jpg"
+    image: "images/product2.jpg",
     whatsappLink:"https://wa.me/94740744515",
   },
   {
@@ -52,7 +52,7 @@ window.ALPINE_PRODUCTS = [
     inStock: true,
     description:
       "සියලුම පලිබෝධකයන් සඳහා ඵලදායී විසඳුමකි. ජලය 16L කට මෙම නිෂ්පාදනයෙන් 50ml ක් මිශ්ර කර වගාවට යොදන්න.",
-    image: "images/product3.jpg"
+    image: "images/product3.jpg",
     whatsappLink:"https://wa.me/94740744515",
   },
   {
@@ -65,7 +65,7 @@ window.ALPINE_PRODUCTS = [
     inStock: true,
     description:
       "සියලුම පලිබෝධකයන් සඳහා ඵලදායී විසඳුමකි. ජලය 16L කට මෙම නිෂ්පාදනයෙන් 50ml ක් මිශ්ර කර වගාවට යොදන්න.",
-    image: "images/product4.jpg"
+    image: "images/product4.jpg",
     whatsappLink:"https://wa.me/94740744515"
   }
 ];
