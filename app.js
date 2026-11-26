@@ -290,18 +290,13 @@
                   >+</button>
                 </div>
                 <button
-                  type="button"
-                  class="btn btn--primary add-cart-btn"
-                  data-action="add-to-cart"
-                  data-id="${escapeHtml(product.id)}"
-                >
-                  Add to Cart
-                </button>
+                <a href="${product.whatsappLink}" target="_blank" class="btn btn--primary">Order on WhatsApp</a> 
+                
+              
               </div>
             </div>
           </article>
-        `;
-      })
+       
       .join("");
   }
 
