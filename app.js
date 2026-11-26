@@ -330,7 +330,7 @@
 
     saveCart();
     renderCart();
-    showToast(`Added ${quantity} × ${product.name} to cart`);
+    showToast(`${quantity} × ${product.name} to cart`);
   }
 
   function updateCartItemQty(productId, delta) {
