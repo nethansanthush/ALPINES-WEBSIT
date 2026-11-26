@@ -291,8 +291,6 @@
                 </div>
                 <button
                 <a href="${product.whatsappLink}" target="_blank" class="btn btn--primary">Order on WhatsApp</a> 
-                
-              
               </div>
             </div>
           </article>
